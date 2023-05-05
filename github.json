@@ -155,7 +155,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"f63fd01941cc4654a94e59ee36f5ce5a"
+            "ext":"2241616bc2af43ed82a9895225786e3e"
         },
         {
             "key":"csp_Yisou",
@@ -165,7 +165,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"f63fd01941cc4654a94e59ee36f5ce5a"
+            "ext":"2241616bc2af43ed82a9895225786e3e"
         },
         {
             "key":"csp_Zhaozy",
@@ -175,7 +175,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"f63fd01941cc4654a94e59ee36f5ce5a"
+            "ext":"2241616bc2af43ed82a9895225786e3e"
         },
         {
             "key":"csp_AliPanSou",
@@ -185,7 +185,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"f63fd01941cc4654a94e59ee36f5ce5a"
+            "ext":"2241616bc2af43ed82a9895225786e3e"
         },
         {
             "key":"csp_xpath_qiumi",
@@ -244,7 +244,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"f63fd01941cc4654a94e59ee36f5ce5a"
+            "ext":"2241616bc2af43ed82a9895225786e3e"
         }
     ],
     "lives":[
